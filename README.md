@@ -12,7 +12,7 @@ To submit your entry, follow the instructions below:
 
 * Log in to **GitHub** or create an account.
 * **Fork this repository**.
-* **Duplicate** the [my-pitch_my-name.md](https://github.com/PixelsCamp/talks/blob/master/my-pitch_my-name.md) file first and rename the **new file** after your pitch title and your name.  
+* **Duplicate** the [my-pitch_my-name.md](https://github.com/PixelsCamp/karaoke-pitches/blob/master/my-pitch_my-name.md) file first and rename the **new file** after your pitch title and your name.  
 (ex: my-trip-to-the-zoo-with_celso-martinho.md)
 * Edit the **new file** and fill in each section.
 * **Do not delete the template file.**
