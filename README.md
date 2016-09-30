@@ -4,7 +4,7 @@
 
 To compete in our mad Presentation Karaoke challenge, you must submit a (minimum) 10-topic presentation outline through a GitHub pull request.
 
-Think of that presentation as you ideal pitch - it doesn't have to be real, or serious, or even feasible. Short, concise, creative and humorous score higher.
+Think of that presentation as your ideal pitch - it doesn't have to be real, or serious, or even feasible. Short, concise, creative and humorous score higher.
 
 ## How to compete
 
